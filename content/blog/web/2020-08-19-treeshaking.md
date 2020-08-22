@@ -79,7 +79,7 @@ date: 2020-08-22
     - 전/후 파일 크기 차
         - tree shaking 전
           ![beforetree](../../assets/beforetree.png)
-        - tree shaking 후
+        - tree shaking 후 
           ![aftertree](../../assets/aftertree.png) 
 
 ## webpack 관련 기타사항
