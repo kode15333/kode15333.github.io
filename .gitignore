@@ -67,3 +67,4 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
+!/content/blog/algorithm/2020-08-27-tribonacci.md
