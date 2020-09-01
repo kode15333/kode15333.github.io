@@ -1,15 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Junho Blog`,
+    title: `Jun 개발노트`,
     author: {
       name: `Junho You`,
-      summary: ``,
+      summary: `배운것을 기록하자`
     },
     description: `A Junho blog demonstrating what Junho can do.`,
     siteUrl: `https://kode15333.netlify.app/`,
     social: {
-      twitter: `#`,
-    },
+      twitter: `#`
+    }
   },
   plugins: [
     {
