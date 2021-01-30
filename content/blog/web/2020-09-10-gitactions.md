@@ -1,12 +1,11 @@
 ---
 title: "Git Actions 설명"  
 description: "Git Actions yml 파일 설명 "
-draft: false
-template: "post"
-category : "Git"
+draft: false template: "post"
+category : "web"
 tags:
-  - WebRTC
-date: 2020-09-10
+
+- GitAction date: 2020-09-10
 ---
 ```yaml
 # Git Actions YML 파일

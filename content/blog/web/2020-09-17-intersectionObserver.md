@@ -5,8 +5,8 @@ draft: false
 template: "post"
 category : "web"
 tags:
-  - WebRTC
-date: 2020-09-17
+
+- IntersectionObserver date: 2020-09-17
 ---
 ## 정의
  

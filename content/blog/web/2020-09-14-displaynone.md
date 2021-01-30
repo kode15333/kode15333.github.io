@@ -1,12 +1,11 @@
 ---
 title: "Display None"  
 description: "Display None에 대해서"
-draft: false
-template: "post"
-category : "Git"
+draft: false template: "post"
+category : "web"
 tags:
-  - WebRTC
-date: 2020-09-14
+
+- CSS date: 2020-09-14
 ---
 ## Why?
 
