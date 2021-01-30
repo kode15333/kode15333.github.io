@@ -1,11 +1,12 @@
 ---
 title:  "웹 페이지 로드 과정"
 description: "웹 페이지 로드 과정"
-draft: false template: "post"
+draft: false
+template: "post"
 category : "html"
 tags:
-
-- html date: 2021-01-24
+- html 
+date: 2021-01-24
 ---
 ## 0. 이글을 작성하는 이유?
 

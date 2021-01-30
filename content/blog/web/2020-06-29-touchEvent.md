@@ -1,11 +1,12 @@
 ---
 title:  "터치이벤트"
 description: "모바일 화면에서 이벤트 처리"
-draft: false template: "post"
+draft: false
+template: "post"
 category : "html"
 tags:
-
-- html date: 2020-06-29
+- html 
+date: 2020-06-29
 ---
 ## 터치이벤트(touch Event)
 

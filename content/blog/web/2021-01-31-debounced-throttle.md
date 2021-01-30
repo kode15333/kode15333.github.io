@@ -1,12 +1,13 @@
 ---
 title: "Debounced And Throttle"  
 description: "Debounced And Throttle에 대해서"
-draft: false template: "post"
+draft: false 
+template: "post"
 category : "web"
 tags:
-
 - lodash
-- js date: 2021-01-31
+- js 
+date: 2021-01-31
 
 ---
 

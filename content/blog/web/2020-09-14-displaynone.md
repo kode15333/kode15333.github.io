@@ -1,11 +1,12 @@
 ---
 title: "Display None"  
 description: "Display None에 대해서"
-draft: false template: "post"
+draft: false 
+template: "post"
 category : "web"
 tags:
-
-- CSS date: 2020-09-14
+- CSS 
+date: 2020-09-14
 ---
 ## Why?
 
